@@ -200,6 +200,4 @@ Backend can be deployed on:
 
 ---
 
-# License
 
-This project is developed for learning and portfolio purposes.
