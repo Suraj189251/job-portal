@@ -111,14 +111,7 @@ http://localhost:3000
 cd backend
 ```
 
-## Configure Database
 
-Update the `application.properties` file:
-
-```properties
-spring.datasource.url=jdbc:mysql://localhost:3306/jobportal
-spring.datasource.username=your_username
-spring.datasource.password=your_password
 ```
 
 ## Run Backend
