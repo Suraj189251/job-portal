@@ -57,7 +57,7 @@ A full-stack Job Portal web application built using **Spring Boot** for the back
 
 ## Database
 
-* MySQL
+* MongoDB
 
 ---
 
